@@ -1,0 +1,71 @@
+Task Description,Category,Value,Difficulty,Energy Cost,Penalty,Deadline
+Algorithm Practice,CS,7,6,10,-10.5,33
+Attend Service,Religion,5,2,3,-2.5,0
+Bake Something,Leisure,3,0,1,0,0
+Bible Study,Religion,4,3,4,-3,0
+Change Bed Sheets,Chores,2,1,2,-0.5,0
+Clean Bathroom,Chores,5,5,8,-6.25,0
+Code Review,CS,4,3,4,-3,0
+Complete Stats Lab,Stats,7,6,10,-10.5,30
+Crafting,Leisure,3,0,1,0,0
+Create Presentation,Work,7,6,10,-10.5,27
+Data Entry,Work,3,2,3,-1.5,0
+Debugging Session,CS,6,5,8,-7.5,21
+Deep Breathing,Rest,0,-5,-6,0,0
+Deep-Clean Kitchen,Chores,6,6,10,-9,0
+Dishes,Chores,4,3,4,-3,0
+DL Lab,CS,10,10,20,-25,48
+DL Readings,CS,6,3,4,-4.5,6
+Do a Puzzle,Leisure,2,0,1,0,0
+Draft Report,Work,6,5,8,-7.5,15
+Early Bedtime,Rest,0,-8,-13,0,0
+Final Projects,CS,9,8,15,-18,42
+Finish Programming Lab,CS,8,8,15,-16,42
+Grocery Shopping,Chores,5,4,6,-5,0
+Implement Feature,CS,8,7,12,-14,36
+Laundry,Chores,6,1,2,-1.5,0
+Listen to Music,Leisure,1,0,1,0,0
+Meal Prep,Chores,5,3,4,-3.75,0
+Meditating,Rest,0,-6,-8,0,0
+Meditation (Religious),Religion,3,1,2,-0.75,0
+Meet With Team,Work,5,3,4,-3.75,3
+Organize Closet,Chores,4,4,6,-4,0
+Paper Writing,Work,7,9,17,-15.75,39
+Participate in Group Study,Religion,5,3,4,-3.75,0
+Pay Bills,Chores,3,2,3,-1.5,0
+Photography Walk,Leisure,3,1,2,-0.75,0
+Pray,Religion,2,0,1,0,0
+Read a Novel,Leisure,2,0,1,0,0
+Refactor Codebase,CS,7,5,8,-8.75,24
+Religion Reading,Religion,3,2,3,-1.5,0
+Religious Podcast,Religion,3,1,2,-0.75,0
+Religious Reading,Religion,4,2,3,-2,0
+Research,Work,5,6,10,-7.5,18
+Research New Framework,CS,6,4,6,-6,12
+Respond to Emails,Work,3,2,3,-1.5,0
+Rest Day,Rest,0,-9,-15,0,0
+Review Probability Concepts,Stats,6,5,8,-7.5,18
+RL Homework,CS,8,7,12,-14,36
+Scripture Journaling,Religion,10,3,4,-7.5,0
+Scripture Memorization,Religion,4,4,6,-4,0
+Sleeping,Rest,0,-7,-10,0,0
+Stats Homework,Stats,7,5,8,-8.75,24
+Stats Practice Problems,Stats,6,4,6,-6,9
+Stretching,Rest,0,-4,-4,0,0
+Study for Exam,Stats,6,4,6,-6,12
+Study Stats Notes,Stats,5,3,4,-3.75,3
+Sweep Floors,Chores,3,1,2,-0.75,0
+Take a Nap,Rest,0,-7,-10,0,0
+Take Out Trash,Chores,2,1,2,-0.5,0
+Vacuum Living Room,Chores,3,2,3,-1.5,0
+Vacuuming,Chores,1,2,3,-0.5,0
+Volunteer at Church,Religion,5,5,8,-6.25,0
+Wash Car,Chores,4,4,6,-4,0
+Watch a Movie,Leisure,1,0,1,0,0
+Watch CS Lecture,CS,5,2,3,-2.5,0
+Watch Stats Lecture,Stats,4,2,3,-2,0
+Weighted Blanket Time,Rest,0,-4,-4,0,0
+Work on Capstone,CS,10,9,17,-22.5,45
+Write Reflections,Religion,3,2,3,-1.5,0
+Write Unit Tests,CS,5,3,4,-3.75,3
+Yoga,Leisure,2,0,1,0,0
